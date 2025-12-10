@@ -1,3 +1,4 @@
+// Author: Nguyen Bao Anh
 import { useEffect, useState } from "react";
 import { getWeatherByCity, getForecast } from "./api/weather";
 import SearchSuggest from "./components/SearchSuggest";
